@@ -1,0 +1,19 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    
+    background-color: rgb(222, 250, 96);
+    box-shadow: 5px 5px 5px 5px;
+
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.item {
+    font-weight: bold;
+}
