@@ -1,2 +1,4 @@
 # fake-blog
- Fake blog for request tests created in the B7 WEB Javascript course.
+* Objective: work request testing concepts with JavaScript.
+* Technologies used: HTML5, CSS3 and JavaScript.
+
